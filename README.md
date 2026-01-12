@@ -72,6 +72,14 @@ webapp/
  └── studentdetails.jsp
 
 ---
+## 📂 Dependecies
+
+1. servlet api 2.5 jar
+2. jstl 1.2 jar
+3. jsp api 2.2 jar
+4. mysql connector j 9.4 jar
+
+---
 ## ▶️ HOW TO RUN
 
 Make sure MySQL Server is running.
