@@ -1,6 +1,6 @@
 🧑‍🎓 Student Registration Web Application
 
-A simple yet elegant Java Web Application that allows users to register students and store their information in a MySQL database. Built with JSP, Servlets, JDBC, and MySQL, this project demonstrates the fundamentals of web development using Java EE.
+An elegant Java Web Application that allows users to register students and store their information in a MySQL database. Built with JSP, Servlets, JDBC, and MySQL, this project demonstrates the fundamentals of web development using Java EE.
 
 👤 Author: Banele Mdhluli
 💻 Language: Java
