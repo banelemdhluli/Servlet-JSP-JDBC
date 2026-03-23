@@ -89,6 +89,8 @@ Make sure MySQL Server is running.
 🐱‍🏍 Add Tomcat server
 ▶️ Run the project on server
 🌍 Open in web browser
+  
+  http://localhost:8080/registration-jsp-servlet-jdbc/register
 
 ---
 ## Pages
